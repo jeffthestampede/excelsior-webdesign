@@ -2,3 +2,9 @@ h1  {
 	color:red;
 	font-weight: bold;
 }
+title {
+	color:blue;
+	font-weight: inherit;
+	font-size: 12;
+	
+}
